@@ -1,0 +1,12 @@
+# Grob-Planung
+
+ **David**
+
+ **20.10.2023**
+
+## Arbeitspakete für dd.mm.yyyy
+Heute werde ich an mein OBA für 431 arbeiten und hoffentlich werde ich fertig
+
+- [ ] OBA für 431
+- [ ] C# üben
+- [ ] game entwickeln
