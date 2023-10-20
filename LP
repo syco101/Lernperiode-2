@@ -1,5 +1,5 @@
 # Grob-Planung
-
+Ich werde in diesem Quartal versuchen ein Spiel zu programmieren und mich auf die Module zu fokusieren
  **David**
 
  **20.10.2023**
