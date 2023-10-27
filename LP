@@ -18,8 +18,19 @@ ich hätte mehr machen können aber 431 hatte für mich eine höhere Priorität.
 
 27.10.2023
 
-
+Heute habe ich an dem Modul 319 gearbeitet und ich habe einen guten Forschritt gemacht. Die Abgabe ist am Sonntag um 23:59 und ich denke ich müsste 
+noch viel daran arbeiten bis am Sonntag. Ich habe bei dem Modul noch mit C# programmiert und so konnte ich  noch ein paar mehr Erfahrungen sammeln.
+(53)
  Arbeitspakete für 27.10.2023
-- [ ] 319
+- [x] 319
 - [ ] c# üben
 - [ ] game entwickeln
+
+03.11.2023
+
+
+
+
+- [ ] game entwickeln
+- [ ] c# üben
+- [ ] Für tests üben
