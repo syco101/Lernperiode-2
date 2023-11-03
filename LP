@@ -28,9 +28,19 @@ noch viel daran arbeiten bis am Sonntag. Ich habe bei dem Modul noch mit C# prog
 
 03.11.2023
 
-
+Heute Habe ich für die Tests für die nächste Woche gelernt und darum hatte ich keine Zeit am Programmierprojekt weiter zu arbeiten. Für die nächste Woche werde ich mir vornehmen am Programmierprojekt weiter zu arbeiten.
+Für mich hat das dann die grösste Priorität und ich denke im Unterricht im Baden kann man dann besser in einem Projekt arbeiten als online. (60)
 
 
 - [ ] game entwickeln
 - [ ] c# üben
+- [x] Für tests üben
+
+11.11.2023
+
+
+
+
+- [ ] game entwickeln
 - [ ] Für tests üben
+- [] C# üben
