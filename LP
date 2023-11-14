@@ -41,6 +41,15 @@ Für mich hat das dann die grösste Priorität und ich denke im Unterricht im Ba
 
 
 
-- [ ] game entwickeln
+- [ ] Ein Snake Spiel entwickeln
 - [ ] Für tests üben
 - [] C# üben
+
+17.11.2023
+
+
+
+
+- [ ] Am Programmierprojekt weiter arbeiten und es versuchen mit Sebastian und Anton soweit wie mögich zu kommen
+- [ ] Für die anstehenden Prüfungen lernen.
+- [ ] Versuchen eine Windows Forms Applikation zu programmieren und zu verstehen
