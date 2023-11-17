@@ -47,9 +47,11 @@ Für mich hat das dann die grösste Priorität und ich denke im Unterricht im Ba
 
 17.11.2023
 
-Heute habe ich mit Sebastian und Anton am Wortschatzquiz weiter programmiert. Wir haben zussammen die Funktion für die zuffällige Wörterausgabe programmiert und das haben wir eigentlich gut erledigt
+Heute habe ich mit Sebastian und Anton am Wortschatzquiz weiter programmiert. Wir haben zusammen die Funktion für die zufällige Wörterausgabe programmiert und das haben wir eigentlich gut erledigt
+Wir haben aber erst die Wörter hineinprogrammiert und wir müssten noch viel machen. Das war für uns ein grosser weiter Schritt aber das Ziel ist noch weit entfernt (56)
 
 
-- [ ] Am Programmierprojekt weiter arbeiten und es versuchen mit Sebastian und Anton soweit wie mögich zu kommen
+
+- [x] Am Programmierprojekt weiter arbeiten und es versuchen mit Sebastian und Anton soweit wie mögich zu kommen
 - [ ] Für die anstehenden Prüfungen lernen.
-- [ ] Versuchen eine Windows Forms Applikation zu programmieren und zu verstehen
+- [x] Versuchen eine Windows Forms Applikation zu programmieren und zu verstehen
