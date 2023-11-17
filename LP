@@ -47,7 +47,7 @@ Für mich hat das dann die grösste Priorität und ich denke im Unterricht im Ba
 
 17.11.2023
 
-
+Heute habe ich mit Sebastian und Anton am Wortschatzquiz weiter programmiert. Wir haben zussammen die Funktion für die zuffällige Wörterausgabe programmiert und das haben wir eigentlich gut erledigt
 
 
 - [ ] Am Programmierprojekt weiter arbeiten und es versuchen mit Sebastian und Anton soweit wie mögich zu kommen
