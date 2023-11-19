@@ -55,3 +55,12 @@ Wir haben aber erst die Wörter hineinprogrammiert und wir müssten noch viel ma
 - [x] Am Programmierprojekt weiter arbeiten und es versuchen mit Sebastian und Anton soweit wie mögich zu kommen
 - [ ] Für die anstehenden Prüfungen lernen.
 - [x] Versuchen eine Windows Forms Applikation zu programmieren und zu verstehen
+
+24.11.2023
+
+
+
+
+- [ ] Am Programmierprojekt weiterarbeiten indem wir die weiteren schwitigkeitsstufen verbessern
+- [ ] Für Biologie lernen
+- [ ] An einem Snake Spiel weiter arbeiten
