@@ -43,7 +43,7 @@ Für mich hat das dann die grösste Priorität und ich denke im Unterricht im Ba
 
 - [ ] Ein Snake Spiel entwickeln
 - [ ] Für tests üben
-- [] C# üben
+- [ ] C# üben
 
 17.11.2023
 
@@ -58,9 +58,21 @@ Wir haben aber erst die Wörter hineinprogrammiert und wir müssten noch viel ma
 
 24.11.2023
 
+Der heutige Tag war sehr erfolgreich. Wir haben den einfachen schwirigkeitsgrad fast fertig und wir wollen bis am Montag abschlissen. Die Zussamenarbeit hat mich Heute
+sehr überrascht weil wir heute sehr koordiniert an dem Code zusammen programmiert haben. Wir haben heute auch gelernt wie das mit den Chatboxen funktioniert und dann hatten wir es auch gut umgesetzt.
+Wir hatten schwirigkeiten das Problem zu lösen aber durch Herr Colic schafften wir es dann. (72)
 
 
 
-- [ ] Am Programmierprojekt weiterarbeiten indem wir die weiteren schwitigkeitsstufen verbessern
+- [x] Am Programmierprojekt weiterarbeiten indem wir die Einfache Schwirigkeitsstufe erweitern                                          
 - [ ] Für Biologie lernen
 - [ ] An einem Snake Spiel weiter arbeiten
+
+1.12.2023
+
+
+
+
+- [x] Beim Programmierprojekt, versuchen die mittlere und Schwirige Schwirigkeitstuffe weiter zu entwickeln
+- [ ] Für den Informatik test lernen
+- [ ] Anfangen ein Snakespiel zu programmieren
