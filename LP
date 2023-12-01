@@ -70,9 +70,21 @@ Wir hatten schwirigkeiten das Problem zu lösen aber durch Herr Colic schafften 
 
 1.12.2023
 
-
+Heute haben ich, Anton und Sebastian weiter am Programmierprojekt gearbeitet und wir sind jetzt fast fertig und wir wollen es jetzt am Wochenende Das Projekt fertigstellen. Wir hatten ein paar Probleme
+Bei der Problemlösung des Codes aber wir haben es dann zusammen gelösst und die Probleme gemeinsam bewältigt. Heute hat das programmieren sehr spass gemacht. (55)
 
 
 - [x] Beim Programmierprojekt, versuchen die mittlere und Schwirige Schwirigkeitstuffe weiter zu entwickeln
 - [ ] Für den Informatik test lernen
+- [ ] Anfangen ein Snakespiel zu programmieren
+
+
+
+8.12.2023
+
+
+
+
+- [ ] Advents Kalender Aufgaben lösen
+- [ ] Für den Mathe test lernen
 - [ ] Anfangen ein Snakespiel zu programmieren
