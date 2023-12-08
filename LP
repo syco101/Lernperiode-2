@@ -81,10 +81,18 @@ Bei der Problemlösung des Codes aber wir haben es dann zusammen gelösst und di
 
 
 8.12.2023
-
+Heute habe ich zusammen mit Anton nochmals den Code von dem Programmierprojekt angeschaut und nochmals analysiert. Anton und ich haben noch ein paar Bugs gefixt und versucht ein wenig weiter zu kommen.
+Ich habe auch über das Internet ein wenig Englisch geübt besonders das Listening weil ich nächste Woche einen Test darüber habe. Die gramatischen Zeiten habe ich auch nochmals angeschaut wie zb das Present Simple.(66)
 
 
 
 - [ ] Advents Kalender Aufgaben lösen
-- [ ] Für den Mathe test lernen
+- [ x ] Englisch
+- [ ] Anfangen ein Snakespiel zu programmieren
+
+15.12.2023
+
+
+- [ ] Advents Kalender Aufgaben lösen
+- [ ] Für Mathe lernen
 - [ ] Anfangen ein Snakespiel zu programmieren
