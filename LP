@@ -91,8 +91,16 @@ Ich habe auch über das Internet ein wenig Englisch geübt besonders das Listeni
 - [ ] Anfangen ein Snakespiel zu programmieren
 
 15.12.2023
+Heute habe ich 2 Adventcode Aufgaben gelöst und sie haben mir eigentlich spass gemacht. Ich habe eigentlich gedacht das sie langweilig wären aber waren sie schlussendlich doch nicht. Ich habe dann noch versucht Mit dem Snake Spiel zu starten was ich 
+auch gemacht habe aber ich bin nicht sehr weit gekommen. Ich wusste nicht ganz wie ich die Funktionen programmieren sollte. ich habe noch eine Halbe Stunde Mathe gelernt und ich fande das es für mich Lehrreich war. Bei Modul 117 habe ich auch
+noch ein paar Tests gemacht was eigentlich nicht geplant war aber ich hatte halt Lust dazu. (100)
 
+- [x] Advents Kalender Aufgaben lösen
+- [x] Für Mathe lernen
+- [x] Anfangen ein Snakespiel zu programmieren
 
-- [ ] Advents Kalender Aufgaben lösen
-- [ ] Für Mathe lernen
-- [ ] Anfangen ein Snakespiel zu programmieren
+22.12.2023
+
+- [ ] Advents Kalender Aufgaben lösen ( Ab Tag 2)
+- [ ] Am Snake Spiel weiter programmiern und versuchen die bewegung hin zu bekommen.
+
