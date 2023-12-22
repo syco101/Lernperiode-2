@@ -100,6 +100,15 @@ noch ein paar Tests gemacht was eigentlich nicht geplant war aber ich hatte halt
 - [x] Anfangen ein Snakespiel zu programmieren
 
 22.12.2023
+Heute wollte ich eigentlich auch Adventsaufgaben  lösen aber ich bin nicht da zu gekommen, denn ich wollte lieber an dem Modul 117 weiter arbeiten weil ich finde das hat eine höhere Priorität als die Advents Aufgaben. in den Ferienj werde ich versuchen ein wenig in der Freizeit zu programmieren aber ich habe nach den Ferien viele Prüfungen und für die muss ich auch lernen. (64)
 
 - [ ] Advents Kalender Aufgaben lösen ( Ab Tag 2)
-- [ ] Am Snake Spiel weiter programmiern und versuchen die bewegung hin zu bekommen.
+- [x] An dem Modul 117 weiterarbeiten
+
+
+Reflexion
+In dieser Lernperiode habe ich mein Wissen und meine Programmierfähig erweitert und verbessert. Ich habe ein paar Projekte begonnen oder fertig gemacht wie z.B ein paar Adventcode Aufgaben, das Programmierprojekt mit Sebastian, Antoni und noch diverse Aufträge von den Modulen. mein grösstes Projekt war klar das Programmierprojekt in der Gruppe, weil das der erste Auftrag war der ernster war, auch wenn wir ein paar Schwierigkeiten hatten und nicht ganz fertig geworden sind finde ich es war trotzdem Lehrreich. Ich habe leider immer noch nicht richtig ein eigenes Projekt beendet wie zb das Snake Spiel, weil immer etwas dazwischen kam aber ich werde versuchen es in den Ferien fertig zu stellen. Ich werde für die nächste Lernperiode versuchen mehr auf die Planung zu achten und das durchzuziehen was ich auch vorhatte. (130)
+
+
+
+
